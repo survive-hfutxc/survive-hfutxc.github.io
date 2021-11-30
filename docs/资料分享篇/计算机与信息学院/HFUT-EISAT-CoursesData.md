@@ -1,5 +1,7 @@
 # 合工大宣区 电子信息科学与技术专业课程资料
 
+[HFUT-EISAT-CoursesData](https://github.com/sunshineclover/HFUT-EISAT-CoursesData)
+
 ## 写在前面
 
 - 本仓库主要收集宣区电信科上课所需要使用的资料
