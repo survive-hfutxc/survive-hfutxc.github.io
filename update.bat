@@ -8,11 +8,6 @@ cls
 git config --local user.name "survive-hfutxc"
 git config --local user.email "survivehfutxc@outlook.com"
 
-echo git pull, Please waiting...
-git pull
-
-echo ---------------------------
-
 set input="May Diana with You"
 echo Default:May Diana with You
 set /p input=git commit -m 
