@@ -19,5 +19,5 @@
 
 <middle><font color="AA1F26">合肥工业大学生存指南</font></middle>
 
-- <font color="AA1F26">Survive HFUTxc</font>
+<font color="AA1F26">Survive HFUTxc</font>
 
