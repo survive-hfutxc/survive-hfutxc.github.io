@@ -1,6 +1,8 @@
 chcp 65001
 @echo off
 
+cls
+
 git config --local user.name "survive-hfutxc"
 git config --local user.email "survivehfutxc@outlook.com"
 
