@@ -1,34 +1,21 @@
 * ⠀
-
 * ⠀
-
 * ⠀
-
 * ⠀⠀
-
 * ⠀
-
 * ⠀
-
 * ⠀
-
 * ⠀
-
 * ⠀
-
 * ⠀⠀
-
 * ⠀
 
-* ⠀
-
-* ⠀
-
-* <p align="center">
+<p align="center">
     <a href="https://github.com/survive-hfutxc/survive-hfutxc.github.io">
-      <img alt="HFUT" src="_media/HFUT_logo.png" height="120">
+      <img alt="HFUT" src="_media/HFUT_logo.png" height="140">
     </a>
-  </p>
+</p>
+
 
 <middle><font color="AA1F26">合肥工业大学生存指南</font></middle>
 
