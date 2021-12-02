@@ -10,7 +10,7 @@
 <p align="center">
 	<font color="AA1F26">Survive HFUTxc</font>
 </p>
-## Web Page
+
 
 本指南的Web Page链接可点击[此处](https://survive-hfutxc.github.io)进入。
 
